@@ -1,0 +1,6 @@
+{
+  "name": "Professional Podcast Studio",
+  "description": "High-end, modern podcasting studio website with interactive session package booking and glassmorphic aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
