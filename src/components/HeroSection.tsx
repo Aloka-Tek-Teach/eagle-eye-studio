@@ -56,7 +56,7 @@ export default function HeroSection({ onBookNow }: HeroSectionProps) {
             className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 backdrop-blur-md text-cyan-400 font-mono text-xs tracking-wider uppercase shadow-[0_0_15px_rgba(6,182,212,0.1)]"
           >
             <Radio className="w-3.5 h-3.5 animate-pulse" />
-            <span>Colombo's Premier Eagle Eye Studio</span>
+            <span>Mathugama's Premier Eagle Eye Studio</span>
           </motion.div>
 
           {/* Catchy Main Title with Neo-Glow Type */}
