@@ -32,15 +32,15 @@ export default function Footer() {
             <ul className="space-y-3.5 text-xs text-gray-400">
               <li className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-cyan-400 shrink-0" />
-                <span>63/B Alfred House Gardens, Colombo 00300, Sri Lanka</span>
+                <span>41/2 Hospital RD, Waththawa, Mathugama Sri Lanka</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-cyan-400 shrink-0" />
-                <span className="font-mono">+94 11 234 5678 / +94 77 987 6543</span>
+                <span className="font-mono">+94 77 924 3079 / +94 74 031 0879</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-cyan-400 shrink-0" />
-                <span className="font-mono">sessions@podcaststudio.lk</span>
+                <span className="font-mono">eagleeyestudio25@gmail.com</span>
               </li>
             </ul>
           </div>
@@ -101,7 +101,7 @@ export default function Footer() {
           </div>
           
           <div className="flex items-center gap-1.5 text-gray-600">
-            <span>Crafted for creators in Colombo</span>
+            <span>Crafted for creators in Mathugama</span>
             <Heart className="w-3 h-3 text-red-500/80 fill-current animate-pulse" />
           </div>
         </div>
