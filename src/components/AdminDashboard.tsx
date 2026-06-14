@@ -193,7 +193,7 @@ export default function AdminDashboard({ bookings, onDeleteBooking, onClearAllBo
                   </form>
 
                   <div className="pt-2 text-[10px] text-gray-600 font-mono uppercase tracking-widest">
-                    Passcode Tip: <span className="text-gray-500">eagleeye@2026</span>
+                    Passcode Tip: <span className="text-gray-500"> ... </span>
                   </div>
                 </motion.div>
               ) : (
